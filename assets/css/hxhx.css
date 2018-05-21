@@ -1,4 +1,19 @@
 /**************************
+* Name: Grid CSS
+* Date: 20/05/2018
+**************************/
+.grid {
+    display: grid;
+}
+.grid-2 {
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid-gap-c-10 {
+    grid-column-gap: 10px;
+}
+
+/**************************
 * Name: Button CSS
 * Date: 20/05/2018
 **************************/
